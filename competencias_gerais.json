@@ -1,0 +1,72 @@
+[
+  {
+    "codigo_competencia_geral": "CG01",
+    "numero": 1,
+    "titulo_curto": "Conhecimento",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Valorizar e utilizar os conhecimentos historicamente construídos sobre o mundo físico, social, cultural e digital para entender e explicar a realidade, continuar aprendendo e colaborar para a construção de uma sociedade justa, democrática e inclusiva."
+  },
+  {
+    "codigo_competencia_geral": "CG02",
+    "numero": 2,
+    "titulo_curto": "Pensamento Científico, Crítico e Criativo",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Exercitar a curiosidade intelectual e recorrer à abordagem própria das ciências, incluindo a investigação, a reflexão, a análise crítica, a imaginação e a criatividade, para investigar causas, elaborar e testar hipóteses, formular e resolver problemas e criar soluções (inclusive tecnológicas) com base nos conhecimentos das diferentes áreas."
+  },
+  {
+    "codigo_competencia_geral": "CG03",
+    "numero": 3,
+    "titulo_curto": "Repertório Cultural",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Valorizar e fruir as diversas manifestações artísticas e culturais, das locais às mundiais, e também participar de práticas diversificadas da produção artístico-cultural."
+  },
+  {
+    "codigo_competencia_geral": "CG04",
+    "numero": 4,
+    "titulo_curto": "Comunicação",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Utilizar diferentes linguagens – verbal (oral ou visual-motora, como Libras, e escrita), corporal, visual, sonora e digital –, bem como conhecimentos das linguagens artística, matemática e científica, para se expressar e partilhar informações, experiências, ideias e sentimentos em diferentes contextos e produzir sentidos que levem ao entendimento mútuo."
+  },
+  {
+    "codigo_competencia_geral": "CG05",
+    "numero": 5,
+    "titulo_curto": "Cultura Digital",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Compreender, utilizar e criar tecnologias digitais de informação e comunicação de forma crítica, significativa, reflexiva e ética nas diversas práticas sociais (incluindo as escolares) para se comunicar, acessar e disseminar informações, produzir conhecimentos, resolver problemas e exercer protagonismo e autoria na vida pessoal e coletiva."
+  },
+  {
+    "codigo_competencia_geral": "CG06",
+    "numero": 6,
+    "titulo_curto": "Trabalho e Projeto de Vida",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Valorizar a diversidade de saberes e vivências culturais e apropriar-se de conhecimentos e experiências que lhe possibilitem entender as relações próprias do mundo do trabalho e fazer escolhas alinhadas ao exercício da cidadania e ao seu projeto de vida, com liberdade, autonomia, consciência crítica e responsabilidade."
+  },
+  {
+    "codigo_competencia_geral": "CG07",
+    "numero": 7,
+    "titulo_curto": "Argumentação",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Argumentar com base em fatos, dados e informações confiáveis, para formular, negociar e defender ideias, pontos de vista e decisões comuns que respeitem e promovam os direitos humanos, a consciência socioambiental e o consumo responsável em âmbito local, regional e global, com posicionamento ético em relação ao cuidado de si mesmo, dos outros e do planeta."
+  },
+  {
+    "codigo_competencia_geral": "CG08",
+    "numero": 8,
+    "titulo_curto": "Autoconhecimento e Autocuidado",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Conhecer-se, apreciar-se e cuidar de sua saúde física e emocional, compreendendo-se na diversidade humana e reconhecendo suas emoções e as dos outros, com autocrítica e capacidade para lidar com elas."
+  },
+  {
+    "codigo_competencia_geral": "CG09",
+    "numero": 9,
+    "titulo_curto": "Empatia e Cooperação",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Exercitar a empatia, o diálogo, a resolução de conflitos e a cooperação, fazendo-se respeitar e promovendo o respeito ao outro e aos direitos humanos, com acolhimento e valorização da diversidade de indivíduos e de grupos sociais, seus saberes, identidades, culturas e potencialidades, sem preconceitos de qualquer natureza."
+  },
+  {
+    "codigo_competencia_geral": "CG10",
+    "numero": 10,
+    "titulo_curto": "Responsabilidade e Cidadania",
+    "icone": "fa-solid fa-book-open-reader",
+    "descricao": "Agir pessoal e coletivamente com autonomia, responsabilidade, flexibilidade, resiliência e determinação, tomando decisões com base em princípios éticos, democráticos, inclusivos, sustentáveis e solidários."
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "codigo_competencia_especifica": "CE_CNT_EM_1",
+    "numero": 1,
+    "icone": "fa-solid fa-atom",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "descricao": "Analisar fenômenos naturais e processos tecnológicos, com base nas interações e relações entre matéria e energia, para propor ações individuais e coletivas que aperfeiçoem processos produtivos, minimizem impactos socioambientais e melhorem as condições de vida em âmbito local, regional e global.",
+    "codigos_habilidades_associadas": [
+      "EM13CNT101", "EM13CNT102", "EM13CNT103", "EM13CNT104",
+      "EM13CNT105", "EM13CNT106", "EM13CNT107"
+    ],
+    "codigos_competencias_gerais_relacionadas": ["CG01", "CG02", "CG07", "CG10"] 
+  },
+  {
+    "codigo_competencia_especifica": "CE_CNT_EM_2",
+    "numero": 2,
+    "icone": "fa-solid fa-atom",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "descricao": "Analisar e utilizar interpretações sobre a dinâmica da Vida, da Terra e do Cosmos para elaborar argumentos, realizar previsões sobre o funcionamento e a evolução dos seres vivos e do Universo, e fundamentar e defender decisões éticas e responsáveis.",
+    "codigos_habilidades_associadas": [
+      "EM13CNT201", "EM13CNT202", "EM13CNT203", "EM13CNT204", "EM13CNT205",
+      "EM13CNT206", "EM13CNT207", "EM13CNT208", "EM13CNT209"
+    ],
+    "codigos_competencias_gerais_relacionadas": ["CG01", "CG02", "CG05", "CG08"]
+  },
+  {
+    "codigo_competencia_especifica": "CE_CNT_EM_3",
+    "numero": 3,
+    "icone": "fa-solid fa-atom",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "descricao": "Investigar situações-problema e avaliar aplicações do conhecimento científico e tecnológico e suas implicações no mundo, utilizando procedimentos e linguagens próprios das Ciências da Natureza, para propor soluções que considerem demandas locais, regionais e/ou globais, e comunicar suas descobertas e conclusões a públicos variados, em diversos contextos e por meio de diferentes mídias e tecnologias digitais de informação e comunicação (TDIC).",
+    "codigos_habilidades_associadas": [
+      "EM13CNT301", "EM13CNT302", "EM13CNT303", "EM13CNT304", "EM13CNT305",
+      "EM13CNT306", "EM13CNT307", "EM13CNT308", "EM13CNT309", "EM13CNT310"
+    ],
+    "codigos_competencias_gerais_relacionadas": ["CG02", "CG04", "CG05", "CG07", "CG09", "CG10"]
+  }
+]

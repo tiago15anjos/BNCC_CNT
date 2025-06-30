@@ -1,0 +1,262 @@
+[
+  {
+    "codigo_habilidade": "EM13CNT101",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Analisar e representar, com ou sem o uso de dispositivos e de aplicativos digitais específicos, as transformações e conservações em sistemas que envolvam quantidade de matéria, de energia e de movimento para realizar previsões sobre seus comportamentos em situações cotidianas e em processos produtivos que priorizem o desenvolvimento sustentável, o uso consciente dos recursos naturais e a preservação da vida em todas as suas formas.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_1",
+    "palavras_chave": ["matéria", "energia", "movimento", "conservação", "sustentabilidade", "vida", "sistemas", "previsões", "transformações", "tecnologia digital", "aplicativos", "recursos naturais", "processos produtivos", "leis de conservação", "ecologia", "impacto ambiental", "modelagem", "analisar", "representar"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Foco Principal", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT102",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Realizar previsões, avaliar intervenções e/ou construir protótipos de sistemas térmicos que visem à sustentabilidade, considerando sua composição e os efeitos das variáveis termodinâmicas sobre seu funcionamento, considerando também o uso de tecnologias digitais que auxiliem no cálculo de estimativas e no apoio à construção dos protótipos.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_1",
+    "palavras_chave": ["sistemas térmicos", "sustentabilidade", "termodinâmica", "protótipos", "previsões", "intervenções", "calor", "temperatura", "avaliação de projetos", "construção de modelos", "estimativas"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Contribuição Relevante", "Fisica": "Foco Principal", "Quimica": "Contribuição Relevante" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT103",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Utilizar o conhecimento sobre as radiações e suas origens para avaliar as potencialidades e os riscos de sua aplicação em equipamentos de uso cotidiano, na saúde, no ambiente, na indústria, na agricultura e na geração de energia elétrica.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_1",
+    "palavras_chave": ["radiações", "saúde", "ambiente", "indústria", "energia", "riscos", "benefícios", "ondas eletromagnéticas", "radioatividade", "tecnologia médica", "geração de energia", "impacto ambiental"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Contribuição Relevante", "Fisica": "Foco Principal", "Quimica": "Contribuição Relevante" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT104",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Avaliar os benefícios e os riscos à saúde e ao ambiente, considerando a composição, a toxicidade e a reatividade de diferentes materiais e produtos, como também o nível de exposição a eles, posicionando-se criticamente e propondo soluções individuais e/ou coletivas para seus usos e descartes responsáveis.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_1",
+    "palavras_chave": ["saúde", "ambiente", "toxicidade", "reatividade", "materiais", "descarte responsável", "soluções", "química ambiental", "poluição", "consumo consciente", "lixo", "reciclagem", "saúde pública"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Relacionada", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT105",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Analisar os ciclos biogeoquímicos e interpretar os efeitos de fenômenos naturais e da interferência humana sobre esses ciclos, para promover ações individuais e/ou coletivas que minimizem consequências nocivas à vida.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_1",
+    "palavras_chave": ["ciclos biogeoquímicos", "interferência humana", "fenômenos naturais", "vida", "ações coletivas", "ciclo do carbono", "ciclo do nitrogênio", "ciclo da água", "ecologia", "equilíbrio ambiental"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Relacionada", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT106",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Avaliar, com ou sem o uso de dispositivos e aplicativos digitais, tecnologias e possíveis soluções para as demandas que envolvem a geração, o transporte, a distribuição e o consumo de energia elétrica, considerando a disponibilidade de recursos, a eficiência energética, a relação custo/benefício, as características geográficas e ambientais, a produção de resíduos e os impactos socioambientais e culturais.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_1",
+    "palavras_chave": ["energia elétrica", "tecnologias", "eficiência energética", "impactos socioambientais", "recursos", "fontes de energia", "matriz energética", "consumo de energia", "custo-benefício"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Contribuição Relevante", "Fisica": "Foco Principal", "Quimica": "Contribuição Relevante" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT107",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Realizar previsões qualitativas e quantitativas sobre o funcionamento de geradores, motores elétricos e seus componentes, bobinas, transformadores, pilhas, baterias e dispositivos eletrônicos, com base na análise dos processos de transformação e condução de energia envolvidos – com ou sem o uso de dispositivos e aplicativos digitais –, para propor ações que visem a sustentabilidade.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_1",
+    "palavras_chave": ["geradores", "motores elétricos", "pilhas", "baterias", "transformação de energia", "sustentabilidade", "eletromagnetismo", "eletroquímica", "circuitos elétricos", "dispositivos eletrônicos"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Relacionada", "Fisica": "Foco Principal", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT201",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Discutir como questões éticas, sociais, ambientais e econômicas influenciam e são influenciadas pela produção e aplicação de conhecimentos científicos e tecnológicos.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["ética", "ciência", "tecnologia", "sociedade", "ambiente", "economia", "CTS", "ciência tecnologia e sociedade", "bioética", "conhecimento científico"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Contribuição Relevante", "Quimica": "Contribuição Relevante" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT202",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Analisar e avaliar o papel da ciência e da tecnologia na compreensão e transformação do mundo, considerando seus limites e possibilidades.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["papel da ciência", "transformação", "limites", "possibilidades", "desenvolvimento científico", "história da ciência", "natureza da ciência"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Contribuição Relevante", "Fisica": "Foco Principal", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT203",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Analisar e aplicar conhecimentos científicos e tecnológicos para propor soluções que considerem as necessidades humanas e o desenvolvimento sustentável.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["sustentabilidade", "soluções", "necessidades humanas", "tecnologia", "ciência aplicada", "inovação", "resolução de problemas"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Contribuição Relevante", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT204",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Avaliar as implicações éticas, ambientais, sociais e econômicas de inovações e tecnologias, considerando diferentes contextos históricos e culturais.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["inovação", "tecnologia", "ética", "contexto histórico", "impactos", "cultura", "sociedade", "avaliação de tecnologia", "bioética"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Relacionada", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT205",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Investigar e analisar diferentes formas de comunicação e divulgação científica e tecnológica, avaliando sua adequação, veracidade e impacto.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["divulgação científica", "comunicação", "análise crítica", "impacto", "mídia científica", "letramento científico", "fake news", "veracidade"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Relacionada", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT206",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Analisar criticamente informações científicas e tecnológicas veiculadas em diferentes mídias e seus impactos sobre a sociedade e o ambiente.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["mídia", "informação científica", "impacto social", "ambiente", "análise crítica", "letramento midiático", "divulgação"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Relacionada", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT207",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Discutir a importância da cooperação científica internacional e da atuação de instituições públicas e privadas no desenvolvimento da ciência e da tecnologia.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["cooperação científica", "instituições", "ciência e tecnologia", "desenvolvimento", "políticas científicas", "financiamento", "pesquisa"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Relacionada", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT208",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Discutir a importância da ciência e da tecnologia para a melhoria da qualidade de vida, com base na análise de dados e evidências.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["qualidade de vida", "ciência aplicada", "dados e evidências", "saúde", "bem-estar", "saneamento", "medicina"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT209",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Avaliar os impactos de diferentes modelos de desenvolvimento científico e tecnológico sobre a sociedade e o ambiente.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_2",
+    "palavras_chave": ["desenvolvimento", "modelos científicos", "impactos sociais", "impactos ambientais", "sustentabilidade", "tecnologia social", "crescimento econômico"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT301",
+    "icone": "fa-solid fa-arrows-spin", 
+    "descricao": "Construir questões, elaborar hipóteses, previsões e estimativas, empregar instrumentos de medição e representar e interpretar modelos explicativos, dados e/ou resultados experimentais para construir, avaliar e justificar conclusões no enfrentamento de situações-problema sob uma perspectiva científica.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["investigação", "hipóteses", "modelos", "dados", "experimentação", "solução de problemas", "método científico", "metodologia científica", "raciocínio científico"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Foco Principal", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT302",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Analisar criticamente dados, evidências e argumentos científicos em diferentes contextos, avaliando sua validade, confiabilidade e relevância.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["dados", "evidências", "argumentos", "validade", "confiabilidade", "análise crítica", "interpretação de dados", "letramento científico"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Foco Principal", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT303",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Coletar, organizar e interpretar dados obtidos em investigações científicas, utilizando linguagens e representações apropriadas.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["dados", "investigação científica", "interpretação", "representações", "coleta de dados", "organização de dados", "gráficos", "tabelas", "linguagem científica"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Foco Principal", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT304",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Planejar e executar investigações científicas, considerando procedimentos de controle, variáveis envolvidas, estratégias de registro e análise de dados.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["planejamento", "investigação", "controle de variáveis", "análise de dados", "experimento", "metodologia", "protocolo experimental"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Foco Principal", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT305",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Utilizar conhecimentos científicos para propor e/ou avaliar soluções tecnológicas e ações que contribuam para o bem-estar individual e coletivo.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["soluções", "tecnologia", "ciência aplicada", "bem-estar", "saúde", "qualidade de vida", "intervenção social"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT306",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Interpretar experimentos e simulações para compreender fenômenos naturais e tecnológicos, reconhecendo suas implicações e limitações.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["simulação", "experimento", "interpretação", "fenômenos", "modelagem", "limitações da ciência", "implicações tecnológicas"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Relacionada", "Fisica": "Foco Principal", "Quimica": "Foco Principal" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT307",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Identificar e avaliar estratégias e procedimentos da pesquisa científica utilizados na produção de conhecimentos nas Ciências da Natureza.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["pesquisa científica", "método científico", "estratégias", "ciências naturais", "produção de conhecimento", "epistemologia"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT308",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Analisar a interdependência entre os conhecimentos científicos e os aspectos culturais, sociais и econômicos envolvidos em sua produção e aplicação.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["conhecimento científico", "interdependência", "contexto sociocultural", "aplicações", "ciência e sociedade", "economia da ciência"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Relacionada", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT309",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Analisar e discutir os critérios utilizados na validação de conhecimentos científicos e suas transformações ao longo do tempo.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["validação", "conhecimento científico", "transformações históricas", "critérios", "história da ciência", "revolução científica", "paradigmas"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Relacionada", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  },
+  {
+    "codigo_habilidade": "EM13CNT310",
+    "icone": "fa-solid fa-arrows-spin",
+    "descricao": "Aplicar procedimentos e atitudes éticas na realização de práticas e pesquisas científicas, respeitando os direitos dos seres vivos e do ambiente.",
+    "etapa_ensino": "Ensino Médio",
+    "area_conhecimento": "Ciências da Natureza e suas Tecnologias",
+    "codigo_competencia_especifica_mae": "CE_CNT_EM_3",
+    "palavras_chave": ["ética", "pesquisa científica", "direitos dos seres vivos", "meio ambiente", "bioética", "ética na ciência", "integridade científica"],
+    "afinidade_disciplinar_cnt": { "Biologia": "Foco Principal", "Fisica": "Relacionada", "Quimica": "Relacionada" }
+  }
+]

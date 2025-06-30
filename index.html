@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ferramenta BNCC - Ciências da Natureza (EM)</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Organização Estrutural da BNCC</h1>
+        <p>Uma visão interativa para o Ensino Médio - Área de Ciências da Natureza e suas Tecnologias</p>
+    </header>
+
+    <main>
+        <section id="secao-mapa-correlacoes">
+            <h2>Mapa de Correlações e Planejamento</h2>
+            <p>Digite um tema, conteúdo ou palavra-chave para encontrar as Habilidades e Competências relacionadas.</p>
+            <div class="busca-container">
+                <input type="text" id="input-busca" placeholder="Ex: sustentabilidade, evolução, ciclos...">
+                <button id="btn-busca">Buscar</button>
+            </div>
+            <div id="resultados-busca">
+                </div>
+        </section>
+
+        <section id="secao-competencias-gerais">
+            <h2>As 10 Competências Gerais da Educação Básica</h2>
+            <div id="lista-competencias-gerais" class="grid-container"></div>
+        </section>
+
+        <section id="secao-estrutura-em-cnt">
+            <h2>Estrutura para Ciências da Natureza e suas Tecnologias</h2>
+            <div class="nivel-estrutura" id="nivel-competencias-especificas">
+                <h3>Competências Específicas da Área</h3>
+                <div id="lista-competencias-especificas-cnt" class="grid-container"></div>
+            </div>
+            <div class="nivel-estrutura" id="nivel-habilidades">
+                <h3>Habilidades</h3>
+                <div id="lista-habilidades-cnt" class="grid-container"></div>
+            </div>
+        </section>
+        
+        <section id="secao-codigos">
+            <h2>Entendendo os Códigos Alfanuméricos (Ensino Médio)</h2>
+            <p>Passe o mouse sobre cada parte do código exemplo abaixo (EM13CNT101) para ver sua explicação:</p>
+            <div class="codigo-container">
+                <span class="segmento-codigo" data-explicacao-id="expl-em">EM</span><span class="segmento-codigo" data-explicacao-id="expl-13">13</span><span class="segmento-codigo" data-explicacao-id="expl-cnt">CNT</span><span class="segmento-codigo" data-explicacao-id="expl-comp">1</span><span class="segmento-codigo" data-explicacao-id="expl-hab">01</span>
+            </div>
+            <div id="explicacoes-container">
+                <p id="expl-em" class="explicacao-item"><strong>EM:</strong> Etapa de Ensino Médio.</p>
+                <p id="expl-13" class="explicacao-item"><strong>13:</strong> Indica que as habilidades podem ser desenvolvidas em qualquer série do Ensino Médio.</p>
+                <p id="expl-cnt" class="explicacao-item"><strong>CNT:</strong> Área do conhecimento (Ciências da Natureza e suas Tecnologias).</p>
+                <p id="expl-comp" class="explicacao-item"><strong>Primeiro número após a área (1):</strong> Indica a competência específica à qual a habilidade se relaciona.</p>
+                <p id="expl-hab" class="explicacao-item"><strong>Últimos dois números (01):</strong> Indicam a numeração da habilidade.</p>
+                <p id="expl-placeholder" class="explicacao-item active">Passe o mouse sobre uma parte do código para ver a descrição.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Professor Me. Tiago Ribeiro dos Anjos</p>
+        <p>&copy; 2025 Ferramenta de Apoio à BNCC</p>
+    </footer>
+
+    <div id="modal-descricao" class="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-close-btn">&times;</button>
+            <h3 id="modal-titulo"></h3>
+            <p id="modal-texto"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script> 
+</body>
+</html>
